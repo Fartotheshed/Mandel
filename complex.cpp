@@ -105,3 +105,12 @@ complex operator^(const complex& w, int a)
 		retVal = retVal*w;
 	return retVal;
 }
+
+int main(){
+	// instantiate complex object called complexTest
+	complex* complexTest = new complex;
+
+	// call constructor for complexTest and give parameters for rel and imag
+
+	// call norm function for complexTest
+}
