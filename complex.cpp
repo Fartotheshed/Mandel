@@ -59,6 +59,7 @@ complex::complex()
 double complex::norm()
 {
 	/* TODO: write this */
+	std::cout << sqrt(pow(real, 2) + pow(imag, 2)) << std::endl;
 	return 0;
 }
 
